@@ -1,4 +1,4 @@
-package FirstPractice;
+package firstPractice;
 
 public class Switch {
 
