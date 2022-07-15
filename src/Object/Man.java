@@ -66,4 +66,7 @@ public class Man {
 		System.out.println(hong);
 		System.out.println(john);
 	}
+	public void eatRice() {
+		System.out.println("π‰¿ª ∏‘Ω¿¥œ¥Ÿ.");
+	}
 }

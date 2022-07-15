@@ -22,4 +22,12 @@ public class Mom {
 	protected void say() {
 		System.out.println("Mom said...");
 	}
+	
+	public void ttt() {
+		System.out.println("ttt");
+	}
+	
+	public void drinkBeer() {
+		System.out.println("╦фаж");
+	}
 }

@@ -11,6 +11,10 @@ public class American extends Man{
 		System.out.println("Hello");
 		System.out.println("My name is "+this.getName());
 	}
+
+	public void eatBread() {
+		System.out.println("eating bread");		
+	}
 	
 
 }
