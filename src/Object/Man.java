@@ -7,6 +7,10 @@ public class Man {
 	private String name;
 	private int amount;
 	
+	public void sayHello() {
+		System.out.println("안녕하세요");
+		System.out.println("제이름은 "+this.getName()+" 입니다.");
+	}
 	public Man() {
 		this.amount = 10000;
 	}
